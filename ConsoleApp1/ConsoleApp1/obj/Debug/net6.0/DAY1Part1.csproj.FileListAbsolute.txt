@@ -1,0 +1,15 @@
+C:\Users\cw131\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\DAY1Part1.exe
+C:\Users\cw131\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\DAY1Part1.deps.json
+C:\Users\cw131\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\DAY1Part1.runtimeconfig.json
+C:\Users\cw131\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\DAY1Part1.dll
+C:\Users\cw131\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ref\DAY1Part1.dll
+C:\Users\cw131\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\DAY1Part1.pdb
+C:\Users\cw131\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\DAY1Part1.csproj.AssemblyReference.cache
+C:\Users\cw131\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\DAY1Part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cw131\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\DAY1Part1.AssemblyInfoInputs.cache
+C:\Users\cw131\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\DAY1Part1.AssemblyInfo.cs
+C:\Users\cw131\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\DAY1Part1.csproj.CoreCompileInputs.cache
+C:\Users\cw131\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\DAY1Part1.dll
+C:\Users\cw131\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\DAY1Part1.dll
+C:\Users\cw131\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\DAY1Part1.pdb
+C:\Users\cw131\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\DAY1Part1.genruntimeconfig.cache
