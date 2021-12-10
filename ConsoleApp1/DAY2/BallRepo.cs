@@ -42,5 +42,10 @@ namespace DAY2
             }
             return 0;
         }
+
+        public List<Ball> GetAll()
+        {
+            return balls;
+        }
     }
 }

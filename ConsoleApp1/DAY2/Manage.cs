@@ -28,6 +28,15 @@ namespace DAY2
 
             Console.Write("Enter Size =>");
             ball.Size = Convert.ToInt32(Console.ReadLine());
+
+            if (balls.Insert(ball) > 0)
+            {
+                Console.WriteLine("ball has been added successfully!");
+            }
+            else
+            {
+                Console.WriteLine("Some error has occurred");
+            }
         }
 
         private void Throw()
@@ -58,12 +67,25 @@ namespace DAY2
             }
         }
 
+        private void Print()
+        {
+            List<Ball> allBalls = balls.GetAll();
+            foreach (Ball ball in allBalls)
+            {
+                if (ball.Size != 0)
+                {
+                    Console.WriteLine($"Ball {ball.Id} have been thrown {ball.timesThrown} times.");
+                }
+            }
+        }
+
         public void Run()
         {
             Console.Clear();
             Console.WriteLine("Press 1 to add ball");
             Console.WriteLine("Press 2 to throw a ball");
             Console.WriteLine("Press 3 to pop a ball");
+            Console.WriteLine("Press 4 to print out the number of times that the balls have been thrown.");
             Console.WriteLine("Press 9 to exit");
             Console.Write("Enter choice => ");
             int choice = Convert.ToInt32(Console.ReadLine());
@@ -79,6 +101,9 @@ namespace DAY2
                         break;
                     case 3:
                         Pop();
+                        break;
+                    case 4:
+                        Print();
                         break;
                     case 9:
                         Console.WriteLine("Thanks for visit");

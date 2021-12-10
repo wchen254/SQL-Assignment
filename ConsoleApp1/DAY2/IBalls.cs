@@ -13,5 +13,7 @@ namespace DAY2
         int Throw(int id);
 
         int Pop(int id);
+
+        List<T> GetAll();
     }
 }
