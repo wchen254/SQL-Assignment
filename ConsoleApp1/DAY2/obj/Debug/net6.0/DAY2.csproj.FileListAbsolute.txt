@@ -1,0 +1,15 @@
+C:\Users\cw131\SQL-Assignment\ConsoleApp1\DAY2\bin\Debug\net6.0\DAY2.exe
+C:\Users\cw131\SQL-Assignment\ConsoleApp1\DAY2\bin\Debug\net6.0\DAY2.deps.json
+C:\Users\cw131\SQL-Assignment\ConsoleApp1\DAY2\bin\Debug\net6.0\DAY2.runtimeconfig.json
+C:\Users\cw131\SQL-Assignment\ConsoleApp1\DAY2\bin\Debug\net6.0\DAY2.dll
+C:\Users\cw131\SQL-Assignment\ConsoleApp1\DAY2\bin\Debug\net6.0\ref\DAY2.dll
+C:\Users\cw131\SQL-Assignment\ConsoleApp1\DAY2\bin\Debug\net6.0\DAY2.pdb
+C:\Users\cw131\SQL-Assignment\ConsoleApp1\DAY2\obj\Debug\net6.0\DAY2.csproj.AssemblyReference.cache
+C:\Users\cw131\SQL-Assignment\ConsoleApp1\DAY2\obj\Debug\net6.0\DAY2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cw131\SQL-Assignment\ConsoleApp1\DAY2\obj\Debug\net6.0\DAY2.AssemblyInfoInputs.cache
+C:\Users\cw131\SQL-Assignment\ConsoleApp1\DAY2\obj\Debug\net6.0\DAY2.AssemblyInfo.cs
+C:\Users\cw131\SQL-Assignment\ConsoleApp1\DAY2\obj\Debug\net6.0\DAY2.csproj.CoreCompileInputs.cache
+C:\Users\cw131\SQL-Assignment\ConsoleApp1\DAY2\obj\Debug\net6.0\DAY2.dll
+C:\Users\cw131\SQL-Assignment\ConsoleApp1\DAY2\obj\Debug\net6.0\ref\DAY2.dll
+C:\Users\cw131\SQL-Assignment\ConsoleApp1\DAY2\obj\Debug\net6.0\DAY2.pdb
+C:\Users\cw131\SQL-Assignment\ConsoleApp1\DAY2\obj\Debug\net6.0\DAY2.genruntimeconfig.cache

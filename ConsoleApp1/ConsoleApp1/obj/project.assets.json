@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cw131\\source\\repos\\ConsoleApp1\\ConsoleApp1\\DAY1Part1.csproj",
+      "projectUniqueName": "C:\\Users\\cw131\\SQL-Assignment\\ConsoleApp1\\ConsoleApp1\\DAY1Part1.csproj",
       "projectName": "DAY1Part1",
-      "projectPath": "C:\\Users\\cw131\\source\\repos\\ConsoleApp1\\ConsoleApp1\\DAY1Part1.csproj",
+      "projectPath": "C:\\Users\\cw131\\SQL-Assignment\\ConsoleApp1\\ConsoleApp1\\DAY1Part1.csproj",
       "packagesPath": "C:\\Users\\cw131\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cw131\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\cw131\\SQL-Assignment\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cw131\\AppData\\Roaming\\NuGet\\NuGet.Config",
